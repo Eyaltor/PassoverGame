@@ -8,7 +8,7 @@ const passoverImages = [
     { src: 'https://chabadcarmeigat.org.il/wp-content/uploads/2020/03/56368741_555374338285684_2024991562970169344_n-300x300.png', name: 'מצה' },
     { src: 'https://images.kikar.co.il/cdn-cgi/image/format=jpeg,fit=contain,width=1200/2020/09/02/74307f30-01d2-11ef-8590-ed85b6ab3b94__h720_w1096.png', name: 'ביצה' },
     { src: 'https://www.naturopedia.com/uploads/img1456102162014.png', name: 'כרפס' },
-    { src: 'https://mand.co.il/wp-content/uploads/2020/03/%D7%91%D7%94%D7%A0%D7%91%D7%9B%D7%94%D7%A0%D7%91-500x400.png', name: 'מלח' },
+    { src: 'https://cdn.shopify.com/s/files/1/0060/1466/4807/files/51_1024x1024.png', name: 'מלח' },
     { src: 'https://sforno.co.il/wp-content/uploads/%D7%94%D7%A1%D7%A4%D7%A8%D7%95%D7%94%D7%A9%D7%93%D7%A8%D7%94-copy-2-%D7%A2%D7%95%D7%AA%D7%A7.png', name: 'הגדה' },
     { src: 'https://www.pascalpr.co.il/wp-content/uploads/%D7%97%D7%A8%D7%95%D7%A1%D7%AA-%D7%90%D7%99%D7%99%D7%9C%D7%A7-696x466.png', name: 'חרוסת' },
     { src: 'https://www.dagim-batyam.co.il/wp-content/uploads/2020/11/%D7%9B%D7%92%D7%94%D7%9B%D7%94%D7%92%D7%A0.png', name: 'חזרת' },
