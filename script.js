@@ -10,9 +10,9 @@ const passoverImages = [
     { src: 'https://www.naturopedia.com/uploads/img1456102162014.png', name: 'כרפס' },
     { src: 'https://mand.co.il/wp-content/uploads/2020/03/%D7%91%D7%94%D7%A0%D7%91%D7%9B%D7%94%D7%A0%D7%91-500x400.png', name: 'מלח' },
     { src: 'https://sforno.co.il/wp-content/uploads/%D7%94%D7%A1%D7%A4%D7%A8%D7%95%D7%94%D7%A9%D7%93%D7%A8%D7%94-copy-2-%D7%A2%D7%95%D7%AA%D7%A7.png', name: 'הגדה' },
-    { src: 'https://www.kosher.com/resized/details.slide/c/h/charoset_1.png', name: 'חרוסת' },
-    { src: 'https://www.kosher.com/resized/details.slide/h/o/horseradish_1.png', name: 'חזרת' },
-    { src: 'https://www.kosher.com/resized/details.slide/a/f/afikoman_2.png', name: 'אפיקומן' },
+    { src: 'https://www.pascalpr.co.il/wp-content/uploads/%D7%97%D7%A8%D7%95%D7%A1%D7%AA-%D7%90%D7%99%D7%99%D7%9C%D7%A7-696x466.png', name: 'חרוסת' },
+    { src: 'https://www.dagim-batyam.co.il/wp-content/uploads/2020/11/%D7%9B%D7%92%D7%94%D7%9B%D7%94%D7%92%D7%A0.png', name: 'חזרת' },
+    { src: 'https://mesibalend.co.il/wp-content/uploads/images/9c5224f0-fe57-11ef-85eb-5ad776fc2364.png', name: 'אפיקומן' },
     { src: 'https://foodgroups.co.il/wp-content/uploads/2024/03/chichen-thigh.png', name: 'עוף' }
 ];
 
